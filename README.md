@@ -1,2 +1,2 @@
 # coding-ninjas-introduction-to-python
-All the questions and files from the course
+This repository contains all the questions and files from the python course offered by coding ninjas.
